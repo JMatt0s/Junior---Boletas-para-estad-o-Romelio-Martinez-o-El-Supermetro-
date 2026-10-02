@@ -24,10 +24,10 @@ Este proyecto permite simular la gestión y venta de boletas para partidos de Ju
 
 | Localidad  | Precio (COP) | Capacidad |
 |------------|--------------|-----------|
-| Norte      | $30.000      | 100       |
-| Sur        | $30.000      | 100       |
-| Oriental   | $50.000      | 80        |
-| Occidental | $100.000     | 50        |
+| Norte      | $30.000      | x        |
+| Sur        | $30.000      | x        |
+| Oriental   | $50.000      | x        |
+| Occidental | $100.000     | x        |
 
 > Los valores son de ejemplo y se pueden modificar en el código.
 
